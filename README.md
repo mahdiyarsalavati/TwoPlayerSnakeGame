@@ -1,7 +1,7 @@
 # Two-Player Snake Game
 
 This is a dynamic, two-player Snake game implemented in C++. The game features exciting elements like apples for growth and bombs as obstacles. One player can control their snake using the WASD keys, while the other player can use the arrow keys.
-
+<img src="snake.gif"/>
 ## Features
 
 - Two-player mode with separate control keys.
