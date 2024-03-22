@@ -10,7 +10,7 @@ This is a dynamic, two-player Snake game implemented in C++. The game features e
 
 ## Compatibility
 
-The game is compatible with MacOS, Linux, and Windows.
+The game is compatible with macOS, Linux, and Windows.
 
 ## How to Run the Project
 
